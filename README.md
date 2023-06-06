@@ -1,2 +1,6 @@
 # yt-dlr
-Rewirte of yt-dlp with Rust
+
+> **Warning**
+> This repository is under construction.
+
+Rewirte of yt-dlp with Rust.
